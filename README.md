@@ -3,7 +3,7 @@
   
 </h3>
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Mobile%20and%20Full-Stack%20Engineer;Experienced%20Apps%20Development;10+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&left=true&width=440&height=45&color=f75c7e&vleft=true&size=22"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Mobile%20App%20Developer;and%20Full-Stack%20Software%20Engineer;10+%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&left=true&width=440&height=45&color=f75c7e&vleft=true&size=22"></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbile0&label=Profile%20views&color=0e75b6&style=flat" alt="devbile0" /> </p>
 
